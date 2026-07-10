@@ -1,0 +1,14 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/Users/lv/.espressif/release-v5.2/esp-idf",
+  "idf.pythonInstallPath": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-builtin.cfg"
+  ],
+  "idf.port": "/dev/tty.usbmodem1401",
+  "idf.toolsPath": "/Users/lv/.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32c3"
+  },
+  "idf.flashType": "UART"
+}
